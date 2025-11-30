@@ -19,9 +19,9 @@
 13.   [Muhammad Diyan Alkautsar - 123230019]
 14.   [Andhiko Sakti Wibowo - 123230228]
 15.   [Andin Muhammad Nurjalin - 123230201]
-16.   [Rasyid Tri Sasongko - 12320043]
+16.   [Rasyid Tri Sasongko - 123230043]
 17.   [Nasarudin - 123230020]
-18.   [Muhammad Syahrial Abidin - ]
+18.   [Muhammad Syahrial Abidin - 123230027]
 
 **Peta Struktur Interaktif & Pemodelan Kontak Fluida**
 
